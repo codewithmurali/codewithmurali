@@ -21,7 +21,7 @@
 >- [Geeks for Geeks](https://auth.geeksforgeeks.org/user/muralikumar/)
 >- [Leetcode](https://leetcode.com/codewithmurali/)
 
-### Tools & Technologies
+### Tools & Technologies:
 
 >- c
 >- c++
