@@ -8,10 +8,10 @@
 <br>
 
 ### About me:
->- I'm love to learn and develop new things... 💞️ 
->- I’m currently working with <em>ReactJS...</em> 🎯
->- I’m currently learning <em>MERN</em> stack... 🌱
->- I’m looking to collaborate on projects... 🧩
+>- 💞️ I'm love to learn and develop new things...  
+>- 🎯 I’m currently working with <em>ReactJS...</em>
+>- 🌱 I’m currently learning <em>MERN</em> stack... 
+>- 🧩 I’m looking to collaborate on projects... 
 
 
 ### Connections:
