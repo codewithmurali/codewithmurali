@@ -1,20 +1,27 @@
 <h1 align="center"><em>HELLO👋, WORLD</em></h1>
 
-<h2  align="center">Myself Muralikumar</h2>
+<h3  align="center">Myself Muralikumar</h3>
+<h6 align="center"> &nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp;~ Self-taught programmer 👨‍🦽🚀🚶</h6>
 
+---
 
->- I’m a <em>SELF-TAUGHT PROGRAMMER...</em> 👨‍🦽🚀🚶
+<br>
+
+### About me:
 >- I'm love to learn and develop new things... 💞️ 
+>- I’m currently working with <em>ReactJS...</em> 🎯
 >- I’m currently learning <em>MERN</em> stack... 🌱
+>- I’m looking to collaborate on projects... 🧩
 
 
-<h3>Ping with me:</h3>
+### Connections:
 
 >- [LinkedIn](https://www.linkedin.com/in/codewithmurali)
 >- [Stack Overflow](https://stackoverflow.com/users/18825126/muralikumar-j)
+>- [Geeks for Geeks](https://auth.geeksforgeeks.org/user/muralikumar/)
+>- [Leetcode](https://leetcode.com/codewithmurali/)
 
-
-<h3>Tools & Technologies:</h3>
+### Tools & Technologies
 
 >- c
 >- c++
