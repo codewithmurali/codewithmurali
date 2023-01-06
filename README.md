@@ -36,5 +36,6 @@
 ![codewithmurali's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithmurali&theme=vue-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=codewithmurali&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithmurali&theme=react&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=codewithmurali&theme=vue-dark&fire=DD1615)](https://git.io/streak-stats)
 
 ---
