@@ -2,7 +2,9 @@
 
 <h3  align="center">Myself Muralikumar</h3>
 
-<img src="https://www.canva.com/design/DAFpefZZfdc/7Pih3lCEKrJH5FPou_julw/watch?utm_content=DAFpefZZfdc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+<a href="#"><img width="100%" height="auto" src="https://www.canva.com/design/DAFpefZZfdc/7Pih3lCEKrJH5FPou_julw/watch?utm_content=DAFpefZZfdc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" height="175px"/></a>
+
+<img src=""/>
 <h6 align="center"> &nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp;~ Self-taught programmer 👨‍🦽🚀🚶</h6>
 
 ---
