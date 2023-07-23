@@ -14,10 +14,8 @@
 <br>
 
 ### About me:
->- 💞️ I love to learn and develop new things...  
->- 🎯 I’m currently working with <em>ReactJS...</em>
->- 🌱 I’m currently learning <em>MERN</em> stack... 
->- 🧩 I’m looking to collaborate on **OpenSource Projects**...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Muralikumar;+Welcome+to+My+Profile!;I+am+a+Web+Development+Enthusiast+from++India+🇮🇳;Always+love+to+learn+new+things;Currently+developing+a+React+JS+applications;And+also+learning+the+MERN+stack;Looking+to+collaborate+on+Open+Source+Projects;)](https://git.io/typing-svg)
+
 
 
 ### Connections:
