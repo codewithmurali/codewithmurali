@@ -2,9 +2,8 @@
 
 <h3  align="center">Myself Muralikumar</h3>
 
-<a href="#"><img width="100%" height="auto" src="https://www.canva.com/design/DAFpefZZfdc/7Pih3lCEKrJH5FPou_julw/watch?utm_content=DAFpefZZfdc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
 
-<img src=""/>
 <h6 align="center"> &nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp;~ Self-taught programmer 👨‍🦽🚀🚶</h6>
 
 ---
@@ -12,10 +11,10 @@
 <br>
 
 ### About me:
->- 💞️ I'm love to learn and develop new things...  
+>- 💞️ I love to learn and develop new things...  
 >- 🎯 I’m currently working with <em>ReactJS...</em>
 >- 🌱 I’m currently learning <em>MERN</em> stack... 
->- 🧩 I’m looking to collaborate on projects... 
+>- 🧩 I’m looking to collaborate on **OpenSource Projects**...
 
 
 ### Connections:
