@@ -31,7 +31,7 @@
 
 
 
-<p align="center" style="display:flex; align-items:space-between;" > 
+<p align="space-between"> 
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="c" width="75" height="75"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
