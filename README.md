@@ -49,13 +49,6 @@
 </p>
 
 
->- c
->- c++
->- HTML5
->- CSS3
->- Javascript
->- ReactJS
-
 ### GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=codewithmurali&theme=react&fire=FF0D43)](https://git.io/streak-stats)
