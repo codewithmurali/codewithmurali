@@ -8,7 +8,7 @@
 
 
 
-<a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/v2/resize:fit:786/1*WKS5uUEDzK4YdVRq7DOkbw.gif" height="175px"/></a>
 ---
 
 <br>
