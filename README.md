@@ -43,7 +43,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="75" height="75"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://banner2.cleanpng.com/20190417/yb/kisspng-webpack-computer-icons-scalable-vector-graphics-re-webpack-svg-icon-transparent-amp-png-clipart-fre-5cb79870aa3cb3.6069044115555359846973.jpg" alt="webpack" width="75" height="75"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="75" height="75"/> </a> 
 </p>
 
 
