@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<h1 align="center"><em>HELLO ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"/> , WORLD</em></h1>
+<h1 align="center"><em>HELLO <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"/> WORLD !</em></h1>
 
-<h3  align="center">Myself Muralikumar</h3>
+<h3>Myself Muralikumar</h3>
 
 
 
