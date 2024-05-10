@@ -77,6 +77,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=codewithmurali&theme=react&fire=FF0D43)](https://git.io/streak-stats)
 
 
-[![    ](https://visitcount.itsvg.in/api?id=codewithmurali&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=codewithmurali&style=flat-square)
 </div>
 
