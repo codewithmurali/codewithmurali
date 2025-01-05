@@ -1,6 +1,5 @@
 
 <div align="center">
-<h3>GSSOC(24) Badges 🪶</h3>
 
 
 <h1 align="center"><em>HELLO <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"/> WORLD !</em></h1>
@@ -41,6 +40,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)&nbsp;&nbsp;&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)&nbsp;&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;&nbsp;&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,6 +51,7 @@
 
 
 ![React](https://img.shields.io/badge/-React%20JS-007ACC?style=for-the-badge&logo=react&logoColor=ffffff)&nbsp;&nbsp;&nbsp;&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Material UI](https://img.shields.io/badge/-Material%20UI-%23000000?style=for-the-badge&logo=material-ui&logoColor=ffffff)&nbsp;&nbsp;&nbsp;&nbsp;
 ![React Redux](https://img.shields.io/badge/-React%20Redux-764abc?style=for-the-badge&logo=redux&logoColor=ffffff)&nbsp;&nbsp;&nbsp;&nbsp;
