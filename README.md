@@ -51,7 +51,7 @@
 
 
 ![React](https://img.shields.io/badge/-React%20JS-007ACC?style=for-the-badge&logo=react&logoColor=ffffff)&nbsp;&nbsp;&nbsp;&nbsp;
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Material UI](https://img.shields.io/badge/-Material%20UI-%23000000?style=for-the-badge&logo=material-ui&logoColor=ffffff)&nbsp;&nbsp;&nbsp;&nbsp;
 ![React Redux](https://img.shields.io/badge/-React%20Redux-764abc?style=for-the-badge&logo=redux&logoColor=ffffff)&nbsp;&nbsp;&nbsp;&nbsp;
